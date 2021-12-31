@@ -1,0 +1,1 @@
+message = "Gondermek istenilen mesaji buraya yaz."
